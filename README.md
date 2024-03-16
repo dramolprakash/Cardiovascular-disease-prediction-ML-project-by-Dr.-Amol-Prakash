@@ -11,15 +11,14 @@ These findings will enhance our understanding of disease etiology and support th
 
 
 ## DATASET:
-
 [Risk Factors for Cardiovascular Heart Disease](https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas/data)
-## Referred Articles
 
+## Referred Articles
  - [Machine learning in precision diabetes care and cardiovascular risk prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527136/)
  - [Physical Activity, All-Cause and Cardiovascular Mortality, and Cardiovascular Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527136/)
  - [A Systematic Review of Machine Learning and IoT Applied to the Prediction and Monitoring of Cardiovascular Diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454027/)
 
-##Screenshots
+## Screenshots:
 ![Picture2](https://github.com/dramolprakash/Cardiovascular-disease-prediction-ML-project-by-Dr.-Amol-Prakash/assets/18162205/d1120e75-65a5-407a-8b7d-d0f3005f67cd)
 ![Picture1](https://github.com/dramolprakash/Cardiovascular-disease-prediction-ML-project-by-Dr.-Amol-Prakash/assets/18162205/724d68d2-939f-4544-975b-765400d752f2)
 ![Feature Importance](https://github.com/dramolprakash/Cardiovascular-disease-prediction-ML-project-by-Dr.-Amol-Prakash/assets/18162205/c2f51452-cf80-43a8-bf3e-32411b938c4e)
